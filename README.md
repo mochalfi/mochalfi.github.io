@@ -1,1 +1,2 @@
-## hopefully this website could publish my portfolio
+## hopefully, this website could help me publish my portfolio
+## please enjoy!

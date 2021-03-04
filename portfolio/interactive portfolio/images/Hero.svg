@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="632" viewBox="0 0 632 632">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #0f7;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        opacity: 0.3;
+      }
+
+      .cls-5 {
+        fill: #7365f6;
+      }
+
+      .cls-6 {
+        fill: #f2ff71;
+      }
+    </style>
+  </defs>
+  <g id="Hero" transform="translate(-978 -326)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-1" width="158" height="158" rx="22" transform="translate(1294 326)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-2" width="158" height="158" rx="22" transform="translate(1136 484)"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-3" width="158" height="158" rx="22" transform="translate(1452 484)"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-4" width="158" height="158" rx="22" transform="translate(978 642)"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-1" width="158" height="158" rx="22" transform="translate(1294 642)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-2" width="158" height="158" rx="22" transform="translate(1136 800)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-5" cx="79" cy="79" r="79" transform="translate(1294 484)"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-6" cx="79" cy="79" r="79" transform="translate(1136 642)"/>
+  </g>
+</svg>
